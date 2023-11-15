@@ -21,13 +21,13 @@ Ok to proceed? (y)
 Vue.js - The Progressive JavaScript Framework
 
 √ Project name: ... vue-in-powerpages
-√ Add TypeScript? ... No / Yes
-√ Add JSX Support? ... No / Yes
-√ Add Vue Router for Single Page Application development? ... No / Yes
-√ Add Pinia for state management? ... No / Yes
-√ Add Vitest for Unit Testing? ... No / Yes
+√ Add TypeScript? ... No
+√ Add JSX Support? ... No
+√ Add Vue Router for Single Page Application development? ... No
+√ Add Pinia for state management? ... Yes
+√ Add Vitest for Unit Testing? ... No
 √ Add an End-to-End Testing Solution? » No
-√ Add ESLint for code quality? ... No / Yes
+√ Add ESLint for code quality? ... No
 
 Scaffolding project in C:\repos\Vuejs-in-PowerPages\vue-in-powerpages...
 
